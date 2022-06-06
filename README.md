@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshutatawat
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning android development. 
+- 👀 I’m interested in tech stuffs.
+- 🌱 I’m currently learning dsa. 
 - 📫 Reach me (@) himanshutatawat9@gmail.com 
 
 <!---
